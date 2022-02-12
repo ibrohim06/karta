@@ -1,0 +1,9 @@
+
+path{
+    fill: green;
+    stroke: rgb(255, 255, 255);
+    transition: .3s;
+}
+path:hover{
+    fill: gold;
+}
